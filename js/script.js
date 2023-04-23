@@ -37,7 +37,7 @@ async function buildGrid(employees) {
         row.innerHTML = `        
           <td>${item.id}</td>
           <td>${item.name}</td>
-          <td>${item.extention}</td>
+          <td>${item.extension}</td>
           <td>${item.email}</td>
           <td>${item.department}</td>
           <td><button class="btn btn-sm btn-danger delete">X</button></td>
