@@ -1,0 +1,40 @@
+
+[
+    {
+        "id": 1,
+        "name": "Anne C.",
+        "extension": 1234,
+        "email": "anne.c@company.com",
+        "department": "HR"
+    },       
+    {
+        "id": 2,
+        "name": "Tom Hank",
+        "extension": 5678,
+        "email": "tom.hank@company.com",
+        "department": "Marketing"
+    },
+    {
+        "id": 3,
+        "name": "Jerry Smith",
+        "extension": 9101,
+        "email": "jerry.smith@company.com",
+        "department": "IT"
+    },
+    {
+        "id": 4,
+        "name": "Sarah Wei",
+        "extension": 1213,
+        "email": "sarah.wei@company.com",
+        "department": "Finance"
+    },
+    {
+        "id": 5,
+        "name": "Tom Brown",
+        "extension": 1415,
+        "email": "tom.brown@company.com",
+        "department": "Operations"
+    }
+
+] 
+
